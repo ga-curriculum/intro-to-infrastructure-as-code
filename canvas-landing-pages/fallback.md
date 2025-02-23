@@ -1,26 +1,26 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Infrastructure as Code</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+By the end of this lecture, students will be able to define Infrastructure as Code, understand its key components and tools, and demonstrate the ability to configure a simple system using IaC principles.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
+| [What is Infrastructure as Code (IaC)?](../what-is-iac/README.md)                          | 15 min | Introduction to Infrastructure as Code. |
+| [Tools and Components of IaC](../tools-and-components/README.md)                    | 25 min | Key components of IaC.                |
+| [Understanding IaC Workflows](../iac-workflows/README.md) | 25 min | Discuss what IaC workflows look like.                |
+| [Applying IaC: An Example](../applying-iac/README.md) | 25 min | Short example of using IaC.                |
+| **Total content**                                   | 90 min |                                     |
 
-## Level Up content
+## Level Up
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+[Level Up](../level-up/README.md)
 
 ## References
 
