@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What is Infrastructure as Code (IaC)?",
-          "dirName": "what-is-iac",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -31,7 +31,7 @@
         },
         {
           "friendlyName": "Tools and Components of IaC",
-          "dirName": "tools-and-components",
+          "dirName": "tools-and-components-of-iac",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +41,7 @@
         },
         {
           "friendlyName": "Understanding IaC Workflows",
-          "dirName": "iac-workflows",
+          "dirName": "understanding-iac-workflows",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,7 +50,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Applying IaC: An Example",
+          "friendlyName": "Applying IaC",
           "dirName": "applying-iac",
           "type": "Content",
           "skill": "",
@@ -60,8 +60,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
+          "friendlyName": "Further Exploration",
+          "dirName": "further-exploration",
           "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
@@ -93,14 +93,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What is Infrastructure as Code (IaC)?",
-          "dirName": "what-is-iac",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -110,7 +110,7 @@
         },
         {
           "friendlyName": "Tools and Components of IaC",
-          "dirName": "tools-and-components",
+          "dirName": "tools-and-components-of-iac",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -120,7 +120,7 @@
         },
         {
           "friendlyName": "Understanding IaC Workflows",
-          "dirName": "iac-workflows",
+          "dirName": "understanding-iac-workflows",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -129,7 +129,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Applying IaC: An Example",
+          "friendlyName": "Applying IaC",
           "dirName": "applying-iac",
           "type": "Content",
           "skill": "",
@@ -139,9 +139,9 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
-          "type": "Level Up content",
+          "friendlyName": "Further Exploration",
+          "dirName": "further-exploration",
+          "type": "Content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",

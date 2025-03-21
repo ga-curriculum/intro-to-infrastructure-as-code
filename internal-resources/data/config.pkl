@@ -20,32 +20,27 @@ repo {
 
 courses {
   new {
-    // Do not remove this fallback course!
-    name = "fallback"
+    name = "itb"
     microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.whatIsIac
-      mls.toolsAndComponents
-      mls.iacWorkflows
+      mls.concepts
+      mls.toolsAndComponentsOfIac
+      mls.understandingIacWorkflows
       mls.applyingIac
       // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
+      (mls.furtherExploration) {
         type = "Level Up content"
       }
     }
   }
-    new {
-    name = "itb"
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
     microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.whatIsIac
-      mls.toolsAndComponents
-      mls.iacWorkflows
+      mls.concepts
+      mls.toolsAndComponentsOfIac
+      mls.understandingIacWorkflows
       mls.applyingIac
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
+      mls.furtherExploration
     }
   }
 }

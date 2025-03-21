@@ -5,9 +5,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to define Infrastructure as Code and explain how it enables the automation and management of IT infrastructure.
 
-## What is Infrastructure as Code (IaC)?
+## What is infrastructure as code (IaC)?
 
-Infrastructure as Code (IaC) allows us to design, create, and manage our IT infrastructure using the power of code and automation.
+Infrastructure as code (IaC) allows us to design, create, and manage our IT infrastructure using the power of code and automation.
 
 IaC is the practice of managing and provisioning computing infrastructure and its configuration through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. It's like having a blueprint for your entire IT landscape that you can easily read, share, and modify.
 
@@ -33,7 +33,7 @@ Below is a list of benefits that using IaC provides:
 
    IaC enables collaboration among team members. Infrastructure code can be stored in version control systems like Git, allowing multiple people to work on the same codebase, track changes, and review each other's work.
 
-4. **Disaster Recovery**
+4. **Disaster recovery**
 
    In the event of a disaster or unexpected outage, IaC allows you to quickly rebuild your infrastructure from code. This reduces downtime and ensures that your infrastructure can be restored to a known state.
 

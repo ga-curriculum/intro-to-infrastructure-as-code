@@ -2,37 +2,37 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-whatIsIac = new Template.Microlesson {
-  friendlyName = "What is Infrastructure as Code (IaC)?"
-  dirName = "what-is-iac"
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
   type = "Content"
   videoUrl = ""
 }
 
-toolsAndComponents = new Template.Microlesson {
+toolsAndComponentsOfIac = new Template.Microlesson {
   friendlyName = "Tools and Components of IaC"
-  dirName = "tools-and-components"
+  dirName = "tools-and-components-of-iac"
   type = "Content"
   videoUrl = ""
 }
 
-iacWorkflows = new Template.Microlesson {
+understandingIacWorkflows = new Template.Microlesson {
   friendlyName = "Understanding IaC Workflows"
-  dirName = "iac-workflows"
+  dirName = "understanding-iac-workflows"
   type = "Content"
   videoUrl = ""
 }
 
 applyingIac = new Template.Microlesson {
-  friendlyName = "Applying IaC: An Example"
+  friendlyName = "Applying IaC"
   dirName = "applying-iac"
   type = "Content"
   videoUrl = ""
 }
 
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
+furtherExploration = new Template.Microlesson {
+  friendlyName = "Further Exploration"
+  dirName = "further-exploration"
+  type = "Content"
   videoUrl = ""
 }
