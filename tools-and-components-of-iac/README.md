@@ -3,7 +3,7 @@
   <span class="subhead">Tools and Components of IaC</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to identify key tools and components used in Infrastructure as Code, such as declarative languages and configuration files.
+**Learning objective:** By the end of this lesson, students will be able to identify key tools and components used in infrastructure as code, such as declarative languages and configuration files.
 
 ## Tools and components of IaC
 
@@ -75,6 +75,6 @@ In the world of IaC, we have a variety of powerful tools and building blocks at 
 
    For example, you can create a module that defines a standard web server configuration, including the EC2 instance, security group rules, and relevant dependencies. This module can then be reused across multiple projects or environments, ensuring consistency and reducing duplication.
 
-These are just a few of the key tools and components that form the foundation of Infrastructure as Code. By leveraging these elements, we can define, provision, and manage our infrastructure in a consistent, repeatable, and automated manner.
+These are just a few of the key tools and components that form the foundation of infrastructure as code. By leveraging these elements, we can define, provision, and manage our infrastructure in a consistent, repeatable, and automated manner.
 
 As we continue our exploration of IaC, we'll dive into the workflow and see how these components work together to bring our infrastructure to life.

@@ -3,7 +3,7 @@
   <span class="subhead">Further Exploration</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to deepen their understanding of Infrastructure as Code.
+**Learning objective:** By the end of this lesson, students will be able to deepen their understanding of infrastructure as code.
 
 ## Additional resources and learning opportunities
 
@@ -25,4 +25,4 @@ To further solidify your understanding of IaC and Terraform, consider exploring 
 
    Explore how IaC integrates with CI/CD pipelines to enable automated testing, provisioning, and deployment of infrastructure. Tools like Jenkins, GitLab CI/CD, or CircleCI can be used to create automated workflows that incorporate infrastructure provisioning.
 
-By exploring these topics and practicing with different configurations, you'll deepen your understanding of Infrastructure as Code and be better prepared to apply these concepts in real-world scenarios.
+By exploring these topics and practicing with different configurations, you'll deepen your understanding of infrastructure as code and be better prepared to apply these concepts in real-world scenarios.

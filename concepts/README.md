@@ -3,7 +3,7 @@
   <span class="subhead">What is Infrastructure as Code (IaC)?</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to define Infrastructure as Code and explain how it enables the automation and management of IT infrastructure.
+**Learning objective:** By the end of this lesson, students will be able to define nfrastructure as code and explain how it enables the automation and management of IT infrastructure.
 
 ## What is infrastructure as code (IaC)?
 

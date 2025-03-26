@@ -3,7 +3,7 @@
   <span class="subhead">Applying IaC</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to configure a simple system using an Infrastructure as Code tool, demonstrating foundational skills in infrastructure automation.
+**Learning objective:** By the end of this lesson, students will be able to configure a simple system using an infrastructure as code tool, demonstrating foundational skills in infrastructure automation.
 
 ## Applying IaC in an example
 
@@ -96,11 +96,11 @@ Now that we understand the basic workflow of IaC, let's put our knowledge into p
 
    - We generated an execution plan to preview the changes that Terraform would make to our infrastructure.
 
-   This workflow represents the core steps of working with Infrastructure as Code. Even though we couldn't complete the actual provisioning step, understanding this workflow is crucial. It allows us to define, version control, and collaborate on our infrastructure using the same principles and practices we apply to our application code.
+   This workflow represents the core steps of working with infrastructure as code. Even though we couldn't complete the actual provisioning step, understanding this workflow is crucial. It allows us to define, version control, and collaborate on our infrastructure using the same principles and practices we apply to our application code.
 
-Congratulations on completing this lesson on Infrastructure as Code! You've gained valuable knowledge about the principles, tools, and workflows involved in managing infrastructure using code. Remember, the key takeaways are:
+Congratulations on completing this lesson on infrastructure as code! You've gained valuable knowledge about the principles, tools, and workflows involved in managing infrastructure using code. Remember, the key takeaways are:
 
-- Infrastructure as Code allows us to define, provision, and manage our infrastructure using declarative configuration files.
+- Infrastructure as code allows us to define, provision, and manage our infrastructure using declarative configuration files.
 
 - IaC brings the benefits of version control, collaboration, and automation to infrastructure management.
 
@@ -108,4 +108,4 @@ Congratulations on completing this lesson on Infrastructure as Code! You've gain
 
 - The IaC workflow typically involves defining the infrastructure, initializing the project, planning and previewing changes, applying the changes, and managing the infrastructure over time.
 
-As you continue your journey with Infrastructure as Code, keep exploring, experimenting, and applying these concepts to different scenarios. The more you practice, the more comfortable and proficient you'll become in managing infrastructure using code.
+As you continue your journey with infrastructure as code, keep exploring, experimenting, and applying these concepts to different scenarios. The more you practice, the more comfortable and proficient you'll become in managing infrastructure using code.

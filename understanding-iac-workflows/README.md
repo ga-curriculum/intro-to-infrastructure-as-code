@@ -3,7 +3,7 @@
   <span class="subhead">Understanding IaC Workflows</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to understand the basic workflow of using Infrastructure as Code to provision and manage IT resources.
+**Learning objective:** By the end of this lesson, students will be able to understand the basic workflow of using infrastructure as code to provision and manage IT resources.
 
 ## Understanding simple IaC workflows
 

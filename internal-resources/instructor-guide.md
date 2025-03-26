@@ -3,7 +3,9 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-***Nothing here yet.***
+Note for maintainers:
+
+This module uses Hashicorp Configuration Language (HCL) for the IaC examples. Highlightjs does not support syntax highlighting for HCL, so we use a plugin (located in the `./assets/js` directory) to add syntax highlighting for HCL code blocks.
 
 ---
 
