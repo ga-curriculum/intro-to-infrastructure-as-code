@@ -5,4 +5,7 @@
 
 ## Lesson references
 
-- None
+- [Terraform](https://www.terraform.io/)
+- [HashiCorp Configuration Language (HCL)](https://github.com/hashicorp/hcl?tab=readme-ov-file)
+- [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+- [Terraform Documentation](https://www.terraform.io/docs/index.html)

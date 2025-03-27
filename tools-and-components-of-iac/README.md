@@ -11,7 +11,7 @@ In the world of IaC, we have a variety of powerful tools and building blocks at 
 
 ### Declarative languages
 
-IaC heavily relies on declarative languages to define the desired state of infrastructure. Tools like Terraform use a declarative language called HashiCorp Configuration Language (HCL), while others like AWS CloudFormation use JSON or YAML.
+IaC heavily relies on declarative languages to define the desired state of infrastructure. Tools like [Terraform](https://www.terraform.io/) use a declarative language called [HashiCorp Configuration Language (HCL)](https://github.com/hashicorp/hcl?tab=readme-ov-file), while others like [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) use JSON or YAML.
 
 These languages allow us to describe our infrastructure in a human-readable and machine-interpretable format. Think of declarative languages as a way to express your infrastructure requirements in a clear and concise manner.
 
