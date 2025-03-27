@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Infrastructure as Code"
+  friendlyName = "Intro to Infrastructure as Code"
   // This must match the repo name as it appears on GitHub exactly
-  name = "infrastructure-as-code"
+  name = "intro-to-infrastructure-as-code"
   type = "Lesson"
 }
 

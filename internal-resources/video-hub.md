@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Infrastructure as Code</span>
+  <span class="headline">Intro to Infrastructure as Code</span>
   <span class="subhead">Video Hub</span>
 </h1>
 
